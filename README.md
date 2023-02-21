@@ -1,4 +1,4 @@
-### h1 Hi there 👋
+### Hi there 👋
 
 <!--
 **MGN3/MGN3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
