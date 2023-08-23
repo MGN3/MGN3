@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Willing to participate in Open Source proyects!
 - Currently taking an official 2 years course in Web Application Development at IMF - Madrid
 - Learning also from Platzi, Microsoft Learn, MiduDev streamings...
-- 📫 How to reach me: mgilnombela@gmail.com
+- 📫 How to reach me: mgilnombela@gmail.com  || linkedin.com/in/marcelino-gil-nombela/
 
