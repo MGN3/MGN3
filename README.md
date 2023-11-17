@@ -7,11 +7,10 @@ Here are some ideas to get you started:
 -->
 
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 Learning C#, Java, JavaScript, HTML, CSS, SQL, Azure...
+- 🌱 Learning ASP.NET Core(C#), JavaScript, HTML, CSS, SQL, Azure...
 - 👯 I’m looking to collaborate on web projects.
 - 🤔 Interested in AI technologies and new and innovative ways to implement it.
-- 💬 Willing to participate in Open Source proyects!
-- Currently taking an official 2 years course in Web Applications Development at IMF - Madrid
+- Currently taking an official 2-year degree in Web Applications Development at IMF Smart Education - Madrid.
 - Learning also from Platzi, Microsoft Learn, MiduDev streamings...
 - 📫 How to reach me: mgilnombela@gmail.com || linkedin.com/in/marcelino-gil-nombela/
 
