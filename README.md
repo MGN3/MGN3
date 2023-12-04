@@ -19,7 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgn3&show_icons=true&locale=en" alt="mgn3" /></p>
 
 <br><br>
-<hr style="height: 5px; width: 700px">
+<hr>
 <!--Socials-->
 <p align="center">
 <a href="https://twitter.com/@mgilnombela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mgilnombela" height="30" width="40" /></a>
@@ -30,5 +30,3 @@
 
 <!--Visits counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
-
-<hr style="height: 5px; width: 200px">
