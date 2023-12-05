@@ -1,5 +1,4 @@
-<h1 align="left">Hi, I'm Marcelino Gil Nombela</h1>
-<h3 align="left">Full-stack web development student.</h3>
+<h2 align="left">Full-stack web development student.</h2>
 
 - 🌱 Learning **ASP.NET Core(C#), JavaScript, Angular, HTML, CSS, SQL, Azure...**
 - 📫 How to reach me **mgilnombela@gmail.com || linkedin.com/in/marcelino-gil-nombela/**
