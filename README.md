@@ -1,7 +1,7 @@
 <h2 align="left">Full-stack web development student.</h2>
 
 - 🌱 Learning **ASP.NET Core(C#), JavaScript, Angular, HTML, CSS, SQL, Azure...**
-- 📫 How to reach me **mgilnombela@gmail.com || linkedin.com/in/marcelino-gil-nombela/**
+- 📫 How to reach me **mgilnombela@gmail.com || https://www.linkedin.com/in/marcelino-gil-nombela/**
 
 <br>
 <!--Trophies-->
