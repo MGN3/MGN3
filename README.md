@@ -52,6 +52,3 @@
 
 <!--Visits counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
-
-<!--Visits counter-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
