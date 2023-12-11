@@ -26,43 +26,6 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
-## Main proyects
-
-<div style="display: flex;">
-
-<div style="width: 250px; margin: 2rem 1rem;">
-
-<div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
-
-<a href="https://mgn3.github.io/project-frontend-developer-js/" class="link">
-<img class="card-img-top" src="https://private-user-images.githubusercontent.com/112982522/289522715-ece80033-9db1-4122-8556-bae51962ad2a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTQ4ODEsIm5iZiI6MTcwMjI5NDU4MSwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTIyNzE1LWVjZTgwMDMzLTlkYjEtNDEyMi04NTU2LWJhZTUxOTYyYWQyYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzE2MDg1OTU1MWZjMDgwYTMzNmIzZDY0MzIxNzA0YjA3ZTFjNTcwOTVhNWQ2YmU1YzA1OGU1NTc1ZmRjZmZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fEbAqKoRGVyCeiyoA1ZagmQVUpMnwtDjXtRSpY1NqfM" alt="Card image cap" style="max-width: 100%;">
-</a>
-
-<div class="card-body" style="padding: 1rem;">
-
-<p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">In progress</p>
-
-<p class="title" style="font-size: 1rem; margin: 0; margin-bottom: 0.5rem; font-weight: bold;">MoveIT UI</p>
-
-<p class="text" style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">An E-Commerce UI featuring a responsive product display.</p>
-
-<div style="display: flex;">
-<span class="stage" style="color: white; padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #3498db;"><i class="fas fa-hammer icon"></i>JavaScript</span>
-<span class="stage" style="color: white; padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i class="fas fa-hammer icon"></i>HTML5</span>
-<span class="stage" style="color: white; padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>CSS3</span>
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 15px;">
-<a href="https://github.com/MGN3/project-frontend-developer-js#readme" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
-<a href="https://mgn3.github.io/project-frontend-developer-js/" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Preview</a>
-</div>
-
-</div>
-</div>
-</div>
-
-</div>
-
 <br>
 <!--Stats box -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgn3&show_icons=true&locale=en&layout=compact" alt="mgn3" /></p>
