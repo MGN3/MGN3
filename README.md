@@ -26,7 +26,7 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
-## Main projects
+## Main proyects
 
 <div style="display: flex;">
    <div style="width: 250px; margin: 2rem 1rem;">
@@ -49,6 +49,28 @@
             </div>
         </div>
     </div>
+</div>
+
+<br>
+<!--Stats box -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgn3&show_icons=true&locale=en&layout=compact" alt="mgn3" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgn3&show_icons=true&locale=en" alt="mgn3" /></p>
+
+<br><br>
+<hr>
+<!--Socials-->
+<p align="center">
+<a href="https://twitter.com/@mgilnombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mgilnombela" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcelino-gil-nombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelino-gil-nombela" height="30" width="40" /></a>
+<a href="https://instagram.com/marcelinogn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelinogn" height="30" width="40" /></a>
+<a href="https://www.youtube.com//@MarcelinoGilNombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marcelinogilnombela" height="30" width="40" /></a>
+</p>
+
+<!--Visits counter-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
+
+
 
 <div style="width: 250px; margin: 2rem 1rem;">
         <div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
@@ -113,23 +135,3 @@
             </div>
         </div>
     </div>
-</div>
-
-<br>
-<!--Stats box -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgn3&show_icons=true&locale=en&layout=compact" alt="mgn3" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mgn3&show_icons=true&locale=en" alt="mgn3" /></p>
-
-<br><br>
-<hr>
-<!--Socials-->
-<p align="center">
-<a href="https://twitter.com/@mgilnombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mgilnombela" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marcelino-gil-nombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelino-gil-nombela" height="30" width="40" /></a>
-<a href="https://instagram.com/marcelinogn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcelinogn" height="30" width="40" /></a>
-<a href="https://www.youtube.com//@MarcelinoGilNombela" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@marcelinogilnombela" height="30" width="40" /></a>
-</p>
-
-<!--Visits counter-->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
