@@ -29,26 +29,150 @@
 ## Main proyects
 
 <div style="display: flex;">
-   <div style="width: 250px; margin: 2rem 1rem;">
-         <div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
-        <a href="https://mgn3.github.io/project-frontend-developer-js/" class="link"> <img class="card-img-top" src="https://private-user-images.githubusercontent.com/112982522/289522715-ece80033-9db1-4122-8556-bae51962ad2a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTQ4ODEsIm5iZiI6MTcwMjI5NDU4MSwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTIyNzE1LWVjZTgwMDMzLTlkYjEtNDEyMi04NTU2LWJhZTUxOTYyYWQyYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzE2MDg1OTU1MWZjMDgwYTMzNmIzZDY0MzIxNzA0YjA3ZTFjNTcwOTVhNWQ2YmU1YzA1OGU1NTc1ZmRjZmZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fEbAqKoRGVyCeiyoA1ZagmQVUpMnwtDjXtRSpY1NqfM" alt="Card image cap" style="max-width: 100%;"></a>
-        <div class="card-body" style="padding: 1rem;">
-                <p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">In progress</p>
-                <p class="title" style="font-size: 1rem; margin: 0; margin-bottom: 0.5rem; font-weight: bold;">MoveIT UI</p>
-                <p class="text" style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">An E-Commerce UI featuring a responsive product display.</p>
-                 <div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #3498db;"><i class="fas fa-hammer icon"></i>JavaScript</span>
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i class="fas fa-hammer icon"></i>HTML5</span>
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>CSS3</span>
-                    <!-- Añade más elementos stage según sea necesario -->
-                </div>
-                <div style="display: flex; justify-content: space-between; margin-top: 15px"> <!-- Alinea los enlaces a los extremos -->
-					<a href="https://github.com/MGN3/project-frontend-developer-js#readme" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
-					<a href="https://mgn3.github.io/project-frontend-developer-js/" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Preview</a>
-            	</div>
-            </div>
-        </div>
-    </div>
+	<div style="width: 250px; margin: 2rem 1rem;">
+		<div class="card"
+			style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
+			<a href="https://mgn3.github.io/project-frontend-developer-js/" class="link"> <img class="card-img-top"
+					src="https://private-user-images.githubusercontent.com/112982522/289522715-ece80033-9db1-4122-8556-bae51962ad2a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTQ4ODEsIm5iZiI6MTcwMjI5NDU4MSwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTIyNzE1LWVjZTgwMDMzLTlkYjEtNDEyMi04NTU2LWJhZTUxOTYyYWQyYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMTM2MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MzE2MDg1OTU1MWZjMDgwYTMzNmIzZDY0MzIxNzA0YjA3ZTFjNTcwOTVhNWQ2YmU1YzA1OGU1NTc1ZmRjZmZjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.fEbAqKoRGVyCeiyoA1ZagmQVUpMnwtDjXtRSpY1NqfM"
+					alt="Card image cap" style="max-width: 100%;"></a>
+			<div class="card-body" style="padding: 1rem;">
+				<p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">In
+					progress</p>
+				<p class="title" style="font-size: 1rem; margin: 0; margin-bottom: 0.5rem; font-weight: bold;">
+					MoveIT UI</p>
+				<p class="text"
+					style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">An
+					E-Commerce UI featuring a responsive product display.</p>
+				<div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #3498db;"><i
+							class="fas fa-hammer icon"></i>JavaScript</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i
+							class="fas fa-hammer icon"></i>HTML5</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>CSS3</span>
+					<!-- Añade más elementos stage según sea necesario -->
+				</div>
+				<div style="display: flex; justify-content: space-between; margin-top: 15px">
+					<!-- Alinea los enlaces a los extremos -->
+					<a href="https://github.com/MGN3/project-frontend-developer-js#readme" class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
+					<a href="https://mgn3.github.io/project-frontend-developer-js/" class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Preview</a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="width: 250px; margin: 2rem 1rem;">
+		<div class="card"
+			style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
+			<a href="https://github.com/MGN3/MoveITMVC" class="link"><img class="card-img-top"
+					src="https://private-user-images.githubusercontent.com/112982522/289536657-730686dd-0817-4c67-a5c6-67b7ed88aeb1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTgyOTcsIm5iZiI6MTcwMjI5Nzk5NywicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTM2NjU3LTczMDY4NmRkLTA4MTctNGM2Ny1hNWM2LTY3YjdlZDg4YWViMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMjMzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDFiMjc2OTVjM2Y1YzcwZDg0NjJkNTk5YmJhNzZiZjhhYzRlNWEyMjU2YmU1Njg3ZWM5ZjYxYzUzOTQwNWQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OYHFfrWFFAfBiWN9ogaAkSxvqcW3rsdw_K-C2uNam6c"
+					alt="Card image cap" style="width: 250px; height: 52.5mm;">
+			</a>
+			<div class="card-body" style="padding: 1rem;">
+				<p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">In
+					progress</p>
+				<p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">
+					MoveIT-MVC backend API</p>
+				<p class="text"
+					style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">
+					Current backend with Model-View-Controller design pattern.</p>
+				<div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i
+							class="fas fa-hammer icon"></i>MVC</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>C#</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>SQLServer</span>
+					<!-- Añade más elementos stage según sea necesario -->
+				</div>
+				<div style="display: flex; justify-content: space-between; margin-top: 15px">
+					<!-- Alinea los enlaces a los extremos -->
+					<a href="https://github.com/MGN3/MoveITMVC" class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
+					<!-- <a href="#" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="width: 250px; margin: 2rem 1rem;">
+		<div class="card"
+			style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
+			<a href="https://github.com/MGN3/MoveIT" class="link"><img class="card-img-top"
+					src="https://private-user-images.githubusercontent.com/112982522/289530673-0ff4a61d-2d87-4577-982e-00c7628b0f8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTY3NzIsIm5iZiI6MTcwMjI5NjQ3MiwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTMwNjczLTBmZjRhNjFkLTJkODctNDU3Ny05ODJlLTAwYzc2MjhiMGY4ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMjA3NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDI4N2RhNjI4ZWE2OWE3MjZiOTg4NjYxNjg2MDI4M2ZjMjI0OGQyMTk5YTVmMTY2ZmQwMWRiMzRmZTMwYjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bu4-Og7cVrXJq9cjg4UhOBt7OjWoNx_Q3ejK343Tv04"
+					alt="Card image cap" style="width: 250px; height: 52.5mm;"></a>
+			<div class="card-body" style="padding: 1rem;">
+				<p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">Finished
+				</p>
+				<p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">
+					MoveIT backend API</p>
+				<p class="text"
+					style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">
+					First MoveIT backend to interact with the Database.</p>
+				<div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i
+							class="fas fa-hammer icon"></i>Minimal API</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>C#</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>SQLServer</span>
+					<!-- Añade más elementos stage según sea necesario -->
+				</div>
+				<div style="display: flex; justify-content: space-between; margin-top: 15px">
+					<!-- Alinea los enlaces a los extremos -->
+					<a href="https://github.com/MGN3/MoveIT" class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
+					<!-- <a href="#" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div style="width: 250px; margin: 2rem 1rem;">
+		<div class="card"
+			style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
+			<a href="https://github.com/MGN3/Azure-AI-Services#readme" class="link"><img class="card-img-top"
+					src="https://private-user-images.githubusercontent.com/112982522/289546015-a76132ac-45bd-4382-b3d7-8c0cde39b2c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMDA1ODksIm5iZiI6MTcwMjMwMDI4OSwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTQ2MDE1LWE3NjEzMmFjLTQ1YmQtNDM4Mi1iM2Q3LThjMGNkZTM5YjJjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMzExMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGIyYTFmYzRjZGExN2ZhMzFhNzMwZjIzNGViYmE1NDA0MDdlOThlNTJlOGJkZGI3MmRjMmI3YzEyMjQ5NmFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.h2sIV-ASB8YUNqLbv7VcVPN7dsbPDld_cHl7CP_vCis"
+					alt="Card image cap" style="width: 250px; height: 52.5mm;"></a>
+			<div class="card-body" style="padding: 1rem;">
+				<p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">Finished
+				</p>
+				<p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">
+					Microsoft Learn Challenge</p>
+				<p class="text"
+					style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">
+					Tested different Azure AI services through APIs.</p>
+				<div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i
+							class="fas fa-hammer icon"></i>OpenAI</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>OCR</span>
+					<span class="stage"
+						style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i
+							class="fas fa-hammer icon"></i>AI Vision</span>
+					<!-- Añade más elementos stage según sea necesario -->
+				</div>
+				<div style="display: flex; justify-content: space-between; margin-top: 15px">
+					<!-- Alinea los enlaces a los extremos -->
+					<a href="https://github.com/MGN3/Azure-AI-Services#readme" class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
+					<a href="https://github.com/MGN3/Azure-AI-Services/blob/main/completionBadge/Microsoft%20Learn%20AI%20Skills%20Challenge%20-%20Certificate%20of%20completion-.pdf"
+						class="link"
+						style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Certificate</a>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
 <br>
@@ -69,69 +193,3 @@
 
 <!--Visits counter-->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mgn3&label=Profile%20views&color=0e75b6&style=flat" alt="mgn3" /> </p>
-
-
-
-<div style="width: 250px; margin: 2rem 1rem;">
-        <div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
-           <a href="https://github.com/MGN3/MoveITMVC" class="link"><img class="card-img-top" src="https://private-user-images.githubusercontent.com/112982522/289536657-730686dd-0817-4c67-a5c6-67b7ed88aeb1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTgyOTcsIm5iZiI6MTcwMjI5Nzk5NywicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTM2NjU3LTczMDY4NmRkLTA4MTctNGM2Ny1hNWM2LTY3YjdlZDg4YWViMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMjMzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDFiMjc2OTVjM2Y1YzcwZDg0NjJkNTk5YmJhNzZiZjhhYzRlNWEyMjU2YmU1Njg3ZWM5ZjYxYzUzOTQwNWQ5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.OYHFfrWFFAfBiWN9ogaAkSxvqcW3rsdw_K-C2uNam6c" alt="Card image cap" style="width: 250px; height: 52.5mm;">
-		   </a>
-            <div class="card-body" style="padding: 1rem;">
-                <p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">In progress</p>
-                <p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">MoveIT-MVC backend API</p>
-                <p class="text" style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">Current backend with  Model-View-Controller design pattern.</p>
-                 <div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i class="fas fa-hammer icon"></i>MVC</span>
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>C#</span>
-					<span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>SQLServer</span>
-                    <!-- Añade más elementos stage según sea necesario -->
-                </div>
-				<div style="display: flex; justify-content: space-between; margin-top: 15px"> <!-- Alinea los enlaces a los extremos -->
-					<a href="https://github.com/MGN3/MoveITMVC" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
-					<!-- <a href="#" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a> -->
-            	</div>
-            </div>
-        </div>
-    </div>
-
-  <div style="width: 250px; margin: 2rem 1rem;">
-        <div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
-            <a href="https://github.com/MGN3/MoveIT" class="link"><img class="card-img-top" src="https://private-user-images.githubusercontent.com/112982522/289530673-0ff4a61d-2d87-4577-982e-00c7628b0f8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIyOTY3NzIsIm5iZiI6MTcwMjI5NjQ3MiwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTMwNjczLTBmZjRhNjFkLTJkODctNDU3Ny05ODJlLTAwYzc2MjhiMGY4ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMjA3NTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDI4N2RhNjI4ZWE2OWE3MjZiOTg4NjYxNjg2MDI4M2ZjMjI0OGQyMTk5YTVmMTY2ZmQwMWRiMzRmZTMwYjFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.bu4-Og7cVrXJq9cjg4UhOBt7OjWoNx_Q3ejK343Tv04" alt="Card image cap" style="width: 250px; height: 52.5mm;"></a>
-            <div class="card-body" style="padding: 1rem;">
-                <p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">Finished</p>
-                <p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">MoveIT backend API</p>
-                <p class="text" style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">First MoveIT backend to interact with the Database.</p>
-                 <div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i class="fas fa-hammer icon"></i>Minimal API</span>
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>C#</span>
-					<span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>SQLServer</span>
-                    <!-- Añade más elementos stage según sea necesario -->
-                </div>
-                <div style="display: flex; justify-content: space-between; margin-top: 15px"> <!-- Alinea los enlaces a los extremos -->
-					<a href="https://github.com/MGN3/MoveIT" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
-					<!-- <a href="#" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a> -->
-            	</div>
-            </div>
-        </div>
-    </div>
-
-<div style="width: 250px; margin: 2rem 1rem;">
-        <div class="card" style="border: none; border-radius: 0; box-shadow: -2px 1px 8px 1px lightgrey; overflow: hidden;">
-            <a href="https://github.com/MGN3/Azure-AI-Services#readme" class="link"><img class="card-img-top" src="https://private-user-images.githubusercontent.com/112982522/289546015-a76132ac-45bd-4382-b3d7-8c0cde39b2c5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDIzMDA1ODksIm5iZiI6MTcwMjMwMDI4OSwicGF0aCI6Ii8xMTI5ODI1MjIvMjg5NTQ2MDE1LWE3NjEzMmFjLTQ1YmQtNDM4Mi1iM2Q3LThjMGNkZTM5YjJjNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxMVQxMzExMjlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MGIyYTFmYzRjZGExN2ZhMzFhNzMwZjIzNGViYmE1NDA0MDdlOThlNTJlOGJkZGI3MmRjMmI3YzEyMjQ5NmFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.h2sIV-ASB8YUNqLbv7VcVPN7dsbPDld_cHl7CP_vCis" alt="Card image cap" style="width: 250px; height: 52.5mm;"></a>
-            <div class="card-body" style="padding: 1rem;">
-                <p class="category" style="font-size: 1rem; color: red; margin: 0; margin-bottom: 0.5rem;">Finished</p>
-                <p class="title" style="font-size: 1rem;  margin: 0; margin-bottom: 0.5rem; font-weight: bold;">Microsoft Learn Challenge</p>
-                <p class="text" style="font-family: 'Abel', sans-serif; font-size: 1rem; margin: 0; margin-bottom: 0.5rem;">Tested different Azure AI services through APIs.</p>
-                 <div style="display: flex;"> <!-- Utilizamos display: flex para los elementos stage -->
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #2980b9;"><i class="fas fa-hammer icon"></i>OpenAI</span>
-                    <span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>OCR</span>
-					<span class="stage" style="color: white;  padding: 6px; border-radius: 5px; margin-right: 5px; background-color: #1abc9c;"><i class="fas fa-hammer icon"></i>AI Vision</span>
-                    <!-- Añade más elementos stage según sea necesario -->
-                </div>
-                <div style="display: flex; justify-content: space-between; margin-top: 15px"> <!-- Alinea los enlaces a los extremos -->
-					<a href="https://github.com/MGN3/Azure-AI-Services#readme" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Repository</a>
-					<a href="https://github.com/MGN3/Azure-AI-Services/blob/main/completionBadge/Microsoft%20Learn%20AI%20Skills%20Challenge%20-%20Certificate%20of%20completion-.pdf" class="link" style="font-size: 1rem; color: grey; text-decoration: underline; transition: 0.3s; margin-bottom: 0.5rem;">Certificate</a>
-            	</div>
-            </div>
-        </div>
-    </div>
