@@ -1,6 +1,7 @@
-<h1 align="left">Full-stack web development student.</h1>
+<h1 align="left"> DevOps - Developer </h1>
 
-- 🌱 Learning **ASP.NET Core(C#), JavaScript, Angular, HTML, CSS, SQL, Azure...**
+- 🌱 **AWS, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CI/CD**
+- 🌱 **ASP.NET Core(C#), JavaScript, Angular, HTML, CSS, SQL, Azure...**
 - 📫 How to reach me **mgilnombela@gmail.com || https://www.linkedin.com/in/marcelino-gil-nombela/**
 
 <br>
