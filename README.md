@@ -1,7 +1,7 @@
 <h1 align="left"> DevOps - Developer </h1>
 
 - 💻 **AWS, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CI/CD**
-- 🌐 **ASP.NET Core(C#), JavaScript, Angular, HTML, CSS, SQL, Azure...**
+- 🌐 **ASP.NET Core(C#), JavaScript, Java, HTML, CSS, SQL...**
 - 📧 How to reach me **mgilnombela@gmail.com || https://www.linkedin.com/in/marcelino-gil-nombela/**
 
 <br>
