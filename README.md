@@ -1,13 +1,12 @@
-<h1 align="left"> DevOps - Developer </h1>
+<h1 align="left"> DevSecOps - Web Development </h1>
 
-- 💻 **AWS, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CI/CD**
+- 💻 **Kubernetes, GitHub Actions, Docker, AWS, Terraform**
 - 🌐 **ASP.NET Core(C#), JavaScript, Java, HTML, CSS, SQL...**
 - 📧 How to reach me **mgilnombela@gmail.com || https://www.linkedin.com/in/marcelino-gil-nombela/**
 
 <br>
 <!--Stack-->
 <p align="left"> 
-<a href="https://angular.io" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
